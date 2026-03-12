@@ -11,7 +11,7 @@
 
 Esta ferramenta foi desenvolvida para profissionais de segurança, pentesters e administradores de sistemas que precisam entender a superfície de ataque de seus domínios. Ela combina múltiplas técnicas de enumeração para fornecer uma visão completa dos ativos digitais expostos.
 
-### ✨ **Características Principais**
+###  **Características Principais**
 
 | Fase | Módulo | Funcionalidade |
 |------|--------|----------------|
