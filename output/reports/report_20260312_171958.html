@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>google.com - Report</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 40px;
+            background: #f8f9fa;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        .section {
+            padding: 40px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .section-title {
+            font-size: 1.8em;
+            color: #333;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #667eea;
+            display: inline-block;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th {
+            background: #667eea;
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 500;
+        }
+        
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e0e0e0;
+            color: #555;
+        }
+        
+        tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .badge {
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+        
+        .badge-success {
+            background: #28a745;
+            color: white;
+        }
+        
+        .badge-warning {
+            background: #ffc107;
+            color: #333;
+        }
+        
+        .badge-danger {
+            background: #dc3545;
+            color: white;
+        }
+        
+        .badge-info {
+            background: #17a2b8;
+            color: white;
+        }
+        
+        .vulnerability-high {
+            color: #dc3545;
+            font-weight: bold;
+        }
+        
+        .vulnerability-medium {
+            color: #ffc107;
+            font-weight: bold;
+        }
+        
+        .vulnerability-low {
+            color: #28a745;
+            font-weight: bold;
+        }
+        
+        .screenshot-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        
+        .screenshot-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+        
+        .screenshot-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .screenshot-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .screenshot-info {
+            padding: 15px;
+        }
+        
+        .screenshot-info h4 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+            word-break: break-all;
+        }
+        
+        .screenshot-info p {
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        .footer {
+            background: #333;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .footer p {
+            opacity: 0.8;
+            font-size: 0.9em;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .section {
+                padding: 20px;
+            }
+            
+            .stat-number {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔍 Asset Discovery Report</h1>
+            <p>google.com</p>
+            <p>Generated on 2026-03-12 17:19:58</p>
+        </div>
+        
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number">238</div>
+                <div class="stat-label">Total Subdomains</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-number">70</div>
+                <div class="stat-label">Resolved Hosts</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-number">10</div>
+                <div class="stat-label">Open Ports</div>
+            </div>
+            
+            <div class="stat-card">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Vulnerabilities</div>
+            </div>
+        </div>
+        
+        
+        <div class="section">
+            <h2 class="section-title">🌐 Discovered Subdomains</h2>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Subdomain</th>
+                            <th>IP Address</th>
+                            <th>Status</th>
+                            <th>Source</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+            <tr>
+                <td>*.apis.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.appengine.google.com</td>
+                <td>142.251.142.142</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.auth.corp.google.com</td>
+                <td>142.250.27.129</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.bigstore-test.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.bigstore.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.blogger.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.blogspot.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.c.pack.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache1.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache1.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache1.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache2.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache2.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache2.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache3.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache3.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache3.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache4.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache4.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache4.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache5.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache5.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache5.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache6.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache6.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache6.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache7.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache7.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache7.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache8.c.docs.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache8.c.play.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cache8.c.video.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cag.ext.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.chrome.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.client-channel.google.com</td>
+                <td>142.251.127.189</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.clients.google.com</td>
+                <td>172.217.168.174</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.cloud.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.code.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.corp-backups.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.dasher-qa.corp.google.com</td>
+                <td>142.250.27.129</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.dasher.corp.google.com</td>
+                <td>142.250.27.129</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.demetrius-codespot.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.demetrius-googlecode.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.demetrius.corp.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.devconsole-testers.sandbox.google.com</td>
+                <td>64.233.166.81</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+            <tr>
+                <td>*.developer.google.com</td>
+                <td>N/A</td>
+                <td><span class="badge badge-danger">No HTTP</span></td>
+                <td>passive</td>
+            </tr>
+            
+                    </tbody>
+                </table>
+            </div>
+            <p><em>Showing 50 of 238 subdomains</em></p>
+        </div>
+        
+        
+        
+        <div class="section">
+            <h2 class="section-title">🔧 Detected Technologies</h2>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>URL</th>
+                            <th>Technology</th>
+                            <th>Version</th>
+                            <th>Confidence</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                <tr>
+                    <td>http://mail.google.com</td>
+                    <td>Wix</td>
+                    <td>Unknown</td>
+                    <td><span class="badge badge-warning">medium</span></td>
+                </tr>
+                
+                <tr>
+                    <td>http://accounts.google.com</td>
+                    <td>Wix</td>
+                    <td>Unknown</td>
+                    <td><span class="badge badge-warning">medium</span></td>
+                </tr>
+                
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        
+        
+        <div class="section">
+            <h2 class="section-title">🔌 Open Ports</h2>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Host</th>
+                            <th>Port</th>
+                            <th>Service</th>
+                            <th>Banner</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+            <tr>
+                <td>adwords.google.com</td>
+                <td>443</td>
+                <td>HTTPS</td>
+                <td></td>
+            </tr>
+            
+            <tr>
+                <td>adwords.google.com</td>
+                <td>80</td>
+                <td>HTTP</td>
+                <td>HTTP/1.0 200 OK
+Content-Type: text/html; charset=</td>
+            </tr>
+            
+            <tr>
+                <td>mail.google.com</td>
+                <td>443</td>
+                <td>HTTPS</td>
+                <td></td>
+            </tr>
+            
+            <tr>
+                <td>mail.google.com</td>
+                <td>80</td>
+                <td>HTTP</td>
+                <td>HTTP/1.0 200 OK
+Content-Type: text/html; charset=</td>
+            </tr>
+            
+            <tr>
+                <td>alt4.gmr-smtp-in.l.google.com</td>
+                <td>25</td>
+                <td>SMTP</td>
+                <td>220 gmr-mx.google.com ESMTP 5b1f17b1804b1-4854ad77</td>
+            </tr>
+            
+            <tr>
+                <td>aspmx.l.google.com</td>
+                <td>25</td>
+                <td>SMTP</td>
+                <td>220 mx.google.com ESMTP 5b1f17b1804b1-4854b56b6dcs</td>
+            </tr>
+            
+            <tr>
+                <td>sandbox.google.com</td>
+                <td>443</td>
+                <td>HTTPS</td>
+                <td></td>
+            </tr>
+            
+            <tr>
+                <td>sandbox.google.com</td>
+                <td>80</td>
+                <td>HTTP</td>
+                <td>HTTP/1.0 200 OK
+Content-Type: text/html; charset=</td>
+            </tr>
+            
+            <tr>
+                <td>accounts.google.com</td>
+                <td>443</td>
+                <td>HTTPS</td>
+                <td></td>
+            </tr>
+            
+            <tr>
+                <td>accounts.google.com</td>
+                <td>80</td>
+                <td>HTTP</td>
+                <td>HTTP/1.0 200 OK
+Content-Type: text/html; charset=</td>
+            </tr>
+            
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        
+        
+        
+        
+        
+        <div class="footer">
+            <p>Generated by Asset Discovery Tool v3.0</p>
+            <p>For authorized security testing only</p>
+        </div>
+    </div>
+</body>
+</html>

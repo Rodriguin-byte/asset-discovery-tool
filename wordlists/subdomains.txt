@@ -1,0 +1,27 @@
+# Navega para a pasta do projeto
+cd "C:\Users\rroch\OneDrive\Ambiente de Trabalho\Subdomain and Asset Discovery\asset_discovery_TOOL"
+
+# Cria a pasta wordlists se não existir
+mkdir wordlists
+
+# Cria uma wordlist básica
+echo www > wordlists/subdomains.txt
+echo mail >> wordlists/subdomains.txt
+echo ftp >> wordlists/subdomains.txt
+echo admin >> wordlists/subdomains.txt
+echo blog >> wordlists/subdomains.txt
+echo api >> wordlists/subdomains.txt
+echo dev >> wordlists/subdomains.txt
+echo test >> wordlists/subdomains.txt
+echo stage >> wordlists/subdomains.txt
+echo prod >> wordlists/subdomains.txt
+echo app >> wordlists/subdomains.txt
+echo mobile >> wordlists/subdomains.txt
+echo m >> wordlists/subdomains.txt
+echo secure >> wordlists/subdomains.txt
+echo login >> wordlists/subdomains.txt
+echo dashboard >> wordlists/subdomains.txt
+echo portal >> wordlists/subdomains.txt
+echo cdn >> wordlists/subdomains.txt
+echo static >> wordlists/subdomains.txt
+echo assets >> wordlists/subdomains.txt

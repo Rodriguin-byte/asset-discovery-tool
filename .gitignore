@@ -1,0 +1,20 @@
+echo "# Python" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.py[cod]" >> .gitignore
+echo "*.so" >> .gitignore
+echo ".Python" >> .gitignore
+echo "venv/" >> .gitignore
+echo "env/" >> .gitignore
+echo "ENV/" >> .gitignore
+echo "output/" >> .gitignore
+echo "*.log" >> .gitignore
+echo "*.pot" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "" >> .gitignore
+echo "# IDE" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo ".idea/" >> .gitignore
+echo "*.swp" >> .gitignore
+echo "*.swo" >> .gitignore
+echo "*~" >> .gitignore
+echo ".DS_Store" >> .gitignore

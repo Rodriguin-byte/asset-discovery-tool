@@ -1,0 +1,735 @@
+{
+  "target": "iloboyou.com",
+  "timestamp": "2026-03-12T17:20:18.390654",
+  "subdomains": [
+    {
+      "name": "*.iloboyou.com",
+      "source": "passive"
+    },
+    {
+      "name": "cpanel.iloboyou.com",
+      "source": "passive",
+      "ip": "185.99.235.40"
+    },
+    {
+      "name": "cpcalendars.iloboyou.com",
+      "source": "passive",
+      "ip": "185.99.235.40"
+    },
+    {
+      "name": "cpcontacts.iloboyou.com",
+      "source": "passive",
+      "ip": "185.99.235.40"
+    },
+    {
+      "name": "mail.iloboyou.com",
+      "source": "passive",
+      "ip": "185.99.235.40"
+    },
+    {
+      "name": "webdisk.iloboyou.com",
+      "source": "passive",
+      "ip": "185.99.235.40"
+    },
+    {
+      "name": "webmail.iloboyou.com",
+      "source": "passive",
+      "ip": "185.99.235.40"
+    },
+    {
+      "name": "www.iloboyou.com",
+      "source": "passive",
+      "ip": "185.99.235.40"
+    }
+  ],
+  "resolved": {
+    "webdisk.iloboyou.com": [
+      "185.99.235.40"
+    ],
+    "cpcontacts.iloboyou.com": [
+      "185.99.235.40"
+    ],
+    "mail.iloboyou.com": [
+      "185.99.235.40"
+    ],
+    "www.iloboyou.com": [
+      "185.99.235.40"
+    ],
+    "webmail.iloboyou.com": [
+      "185.99.235.40"
+    ],
+    "cpanel.iloboyou.com": [
+      "185.99.235.40"
+    ],
+    "cpcalendars.iloboyou.com": [
+      "185.99.235.40"
+    ]
+  },
+  "technologies": [
+    {
+      "url": "http://cpcontacts.iloboyou.com",
+      "status": 503,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "http://mail.iloboyou.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "WordPress",
+          "source": "html",
+          "pattern": "wp-content",
+          "confidence": "medium"
+        },
+        {
+          "technology": "CMS",
+          "source": "meta_generator",
+          "version": "WordPress 6.2.9",
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": "3.2.1",
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": "3.7.1",
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "PHP",
+          "source": "cookie",
+          "cookie": "PHPSESSID",
+          "confidence": "high"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://www.iloboyou.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "WordPress",
+          "source": "html",
+          "pattern": "wp-content",
+          "confidence": "medium"
+        },
+        {
+          "technology": "CMS",
+          "source": "meta_generator",
+          "version": "WordPress 6.2.9",
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": "3.2.1",
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": "3.7.1",
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "PHP",
+          "source": "cookie",
+          "cookie": "PHPSESSID",
+          "confidence": "high"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://webmail.iloboyou.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "Wix",
+          "source": "html",
+          "pattern": "wix",
+          "confidence": "medium"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "http://cpanel.iloboyou.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "Wix",
+          "source": "html",
+          "pattern": "wix",
+          "confidence": "medium"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "http://cpcalendars.iloboyou.com",
+      "status": 503,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=iso-8859-1"
+    }
+  ],
+  "open_ports": [
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:21. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:21:36 GMT\r\nServer: Apache\r\nContent-Length: 483\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:21:36 GMT\r\nServer: Apache\r\nLast-Modified: Wed, 17 Jun 2020 20:01:33 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235040.ciberserver.com ESMTP Exim 4.96.2 #2 Thu, 12 Mar 2026 17:21:36 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "webdisk.iloboyou.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:21. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:21:39 GMT\r\nServer: Apache\r\nContent-Length: 483\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:21:39 GMT\r\nServer: Apache\r\nLast-Modified: Wed, 17 Jun 2020 20:01:33 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235040.ciberserver.com ESMTP Exim 4.96.2 #2 Thu, 12 Mar 2026 17:21:39 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "cpcontacts.iloboyou.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:21. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:21:42 GMT\r\nServer: Apache\r\nLast-Modified: Wed, 17 Jun 2020 20:01:33 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:21:42 GMT\r\nServer: Apache\r\nContent-Length: 483\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235040.ciberserver.com ESMTP Exim 4.96.2 #2 Thu, 12 Mar 2026 17:21:42 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "mail.iloboyou.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:21. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:21:45 GMT\r\nServer: Apache\r\nContent-Length: 483\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:21:45 GMT\r\nServer: Apache\r\nLast-Modified: Wed, 17 Jun 2020 20:01:33 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235040.ciberserver.com ESMTP Exim 4.96.2 #2 Thu, 12 Mar 2026 17:21:45 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "www.iloboyou.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:21. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:21:48 GMT\r\nServer: Apache\r\nContent-Length: 483\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:21:48 GMT\r\nServer: Apache\r\nLast-Modified: Wed, 17 Jun 2020 20:01:33 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235040.ciberserver.com ESMTP Exim 4.96.2 #2 Thu, 12 Mar 2026 17:21:48 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "webmail.iloboyou.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:21. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:21:51 GMT\r\nServer: Apache\r\nContent-Length: 483\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:21:51 GMT\r\nServer: Apache\r\nLast-Modified: Wed, 17 Jun 2020 20:01:33 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235040.ciberserver.com ESMTP Exim 4.96.2 #2 Thu, 12 Mar 2026 17:21:51 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "cpanel.iloboyou.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:21:54 GMT\r\nServer: Apache\r\nContent-Length: 483\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:21. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:21:54 GMT\r\nServer: Apache\r\nLast-Modified: Wed, 17 Jun 2020 20:01:33 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235040.ciberserver.com ESMTP Exim 4.96.2 #2 Thu, 12 Mar 2026 17:21:54 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "cpcalendars.iloboyou.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    }
+  ],
+  "screenshots": [],
+  "vulnerabilities": [],
+  "statistics": {
+    "total_subdomains": 8,
+    "resolved_hosts": 7,
+    "technologies_detected": 30,
+    "open_ports": 70,
+    "vulnerabilities": 0
+  }
+}

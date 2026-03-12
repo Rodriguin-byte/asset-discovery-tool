@@ -1,0 +1,1368 @@
+{
+  "target": "bocadolobo.com",
+  "timestamp": "2026-03-12T17:23:34.051871",
+  "subdomains": [
+    {
+      "name": "*.bocadolobo.com",
+      "source": "passive"
+    },
+    {
+      "name": "*.champ.bocadolobo.com",
+      "source": "passive"
+    },
+    {
+      "name": "api.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "champ.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.105"
+    },
+    {
+      "name": "click.concierge.bocadolobo.com",
+      "source": "passive",
+      "ip": "161.71.33.1"
+    },
+    {
+      "name": "cpanel.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "cpanel.champ.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.105"
+    },
+    {
+      "name": "cpcalendars.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "cpcalendars.champ.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.105"
+    },
+    {
+      "name": "cpcontacts.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "cpcontacts.champ.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.105"
+    },
+    {
+      "name": "mail.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "mail.champ.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.105"
+    },
+    {
+      "name": "maison-objet.bocadolobo.com",
+      "source": "passive"
+    },
+    {
+      "name": "mkt.bocadolobo.com",
+      "source": "passive",
+      "ip": "94.46.251.83"
+    },
+    {
+      "name": "news.bocadolobo.com",
+      "source": "passive"
+    },
+    {
+      "name": "webdisk.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "webdisk.champ.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.105"
+    },
+    {
+      "name": "webmail.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "webmail.champ.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.105"
+    },
+    {
+      "name": "www.api.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "www.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.6"
+    },
+    {
+      "name": "www.champ.bocadolobo.com",
+      "source": "passive",
+      "ip": "185.99.235.105"
+    },
+    {
+      "name": "www.maison-objet.bocadolobo.com",
+      "source": "passive"
+    }
+  ],
+  "resolved": {
+    "cpcalendars.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "cpanel.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "api.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "mail.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "webmail.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "mail.champ.bocadolobo.com": [
+      "185.99.235.105"
+    ],
+    "cpanel.champ.bocadolobo.com": [
+      "185.99.235.105"
+    ],
+    "webmail.champ.bocadolobo.com": [
+      "185.99.235.105"
+    ],
+    "webdisk.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "click.concierge.bocadolobo.com": [
+      "161.71.33.1"
+    ],
+    "champ.bocadolobo.com": [
+      "185.99.235.105"
+    ],
+    "webdisk.champ.bocadolobo.com": [
+      "185.99.235.105"
+    ],
+    "mkt.bocadolobo.com": [
+      "94.46.251.83"
+    ],
+    "cpcontacts.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "cpcontacts.champ.bocadolobo.com": [
+      "185.99.235.105"
+    ],
+    "www.api.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "cpcalendars.champ.bocadolobo.com": [
+      "185.99.235.105"
+    ],
+    "www.bocadolobo.com": [
+      "185.99.235.6"
+    ],
+    "www.champ.bocadolobo.com": [
+      "185.99.235.105"
+    ]
+  },
+  "technologies": [
+    {
+      "url": "http://cpcalendars.bocadolobo.com",
+      "status": 503,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "http://cpanel.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "Wix",
+          "source": "html",
+          "pattern": "wix",
+          "confidence": "medium"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "http://api.bocadolobo.com",
+      "status": 500,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "http://mail.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "PHP",
+          "source": "header",
+          "header": "x-powered-by",
+          "version": "7.2.34",
+          "evidence": "PHP/7.2.34"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://webmail.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "Wix",
+          "source": "html",
+          "pattern": "wix",
+          "confidence": "medium"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "http://mail.champ.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "PHP",
+          "source": "header",
+          "header": "x-powered-by",
+          "version": "5.6.40",
+          "evidence": "PHP/5.6.40"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://cpanel.champ.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "Wix",
+          "source": "html",
+          "pattern": "wix",
+          "confidence": "medium"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "http://webmail.champ.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "Wix",
+          "source": "html",
+          "pattern": "wix",
+          "confidence": "medium"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=\"utf-8\""
+    },
+    {
+      "url": "http://champ.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "PHP",
+          "source": "header",
+          "header": "x-powered-by",
+          "version": "5.6.40",
+          "evidence": "PHP/5.6.40"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://mkt.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        },
+        {
+          "technology": "PHP",
+          "source": "cookie",
+          "cookie": "PHPSESSID",
+          "confidence": "high"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html; charset=ISO-8859-1"
+    },
+    {
+      "url": "http://cpcontacts.bocadolobo.com",
+      "status": 503,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "http://cpcontacts.champ.bocadolobo.com",
+      "status": 503,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "http://www.api.bocadolobo.com",
+      "status": 500,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "http://cpcalendars.champ.bocadolobo.com",
+      "status": 503,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=iso-8859-1"
+    },
+    {
+      "url": "http://www.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "PHP",
+          "source": "header",
+          "header": "x-powered-by",
+          "version": "7.2.34",
+          "evidence": "PHP/7.2.34"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "http://www.champ.bocadolobo.com",
+      "status": 200,
+      "technologies": [
+        {
+          "technology": "Apache",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "Apache"
+        },
+        {
+          "technology": "PHP",
+          "source": "header",
+          "header": "x-powered-by",
+          "version": "5.6.40",
+          "evidence": "PHP/5.6.40"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Bootstrap",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "Angular",
+          "source": "script"
+        },
+        {
+          "technology": "jQuery",
+          "source": "script",
+          "version": null,
+          "confidence": "high"
+        }
+      ],
+      "server": "Apache",
+      "content_type": "text/html; charset=UTF-8"
+    }
+  ],
+  "open_ports": [
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:24. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:44 GMT\r\nServer: Apache\r\nLocation: https:///400.shtml\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:44 GMT\r\nContent-Length: 266\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>301 Moved Permanently</title>\n</head><body>\n<h1>Moved Permanently</h1>\n<p>The document has moved <a href=\"https:///400.shtml\">here</a>.</p>\n</body></html>"
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:44 GMT\r\nServer: Apache\r\nLocation: https:///\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:44 GMT\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1"
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:24:44 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "cpcalendars.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:24. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:47 GMT\r\nServer: Apache\r\nLocation: https:///400.shtml\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:47 GMT\r\nContent-Length: 266\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>301 Moved Permanently</title>\n</head><body>\n<h1>Moved Permanently</h1>\n<p>The document has moved <a href=\"https:///400.shtml\">here</a>.</p>\n</body></html>"
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:47 GMT\r\nServer: Apache\r\nLocation: https:///\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:47 GMT\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1"
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:24:47 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "cpanel.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:24. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:50 GMT\r\nServer: Apache\r\nLocation: https:///\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:50 GMT\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1"
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:50 GMT\r\nServer: Apache\r\nLocation: https:///400.shtml\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:50 GMT\r\nContent-Length: 266\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>301 Moved Permanently</title>\n</head><body>\n<h1>Moved Permanently</h1>\n<p>The document has moved <a href=\"https:///400.shtml\">here</a>.</p>\n</body></html>"
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:24:50 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "api.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:24. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:53 GMT\r\nServer: Apache\r\nLocation: https:///\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:53 GMT\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1"
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:53 GMT\r\nServer: Apache\r\nLocation: https:///400.shtml\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:53 GMT\r\nContent-Length: 266\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>301 Moved Permanently</title>\n</head><body>\n<h1>Moved Permanently</h1>\n<p>The document has moved <a href=\"https:///400.shtml\">here</a>.</p>\n</body></html>"
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:24:53 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "mail.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:24. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:56 GMT\r\nServer: Apache\r\nLocation: https:///400.shtml\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:56 GMT\r\nContent-Length: 266\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>301 Moved Permanently</title>\n</head><body>\n<h1>Moved Permanently</h1>\n<p>The document has moved <a href=\"https:///400.shtml\">here</a>.</p>\n</body></html>"
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:24:56 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:24:56 GMT\r\nServer: Apache\r\nLocation: https:///\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:24:56 GMT\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1"
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "webmail.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:25. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:25:00 GMT\r\nServer: Apache\r\nLast-Modified: Tue, 13 Jan 2026 17:12:35 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:25:00 GMT\r\nServer: Apache\r\nContent-Length: 523\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:25:00 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "mail.champ.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:25. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:25:03 GMT\r\nServer: Apache\r\nContent-Length: 523\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:25:03 GMT\r\nServer: Apache\r\nLast-Modified: Tue, 13 Jan 2026 17:12:35 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:25:03 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "cpanel.champ.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:25. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 400 Bad Request\r\nDate: Thu, 12 Mar 2026 17:25:06 GMT\r\nServer: Apache\r\nContent-Length: 523\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>400 Bad Request</title>\n</head><body>\n<h1>Bad Request</h1>\n<p>Your browser sent a request that this server could not understand.<br />\nReason: You're speaking plain HTTP to an SSL-enabled server port.<br />\n Instead use the HTTPS scheme to access this URL, please.<br />\n</p>\n<p>Additionally, a 400 Bad Request\nerror was encountered while trying to use an ErrorDocument to handle the request.</p>\n</body></html>"
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK\r\nDate: Thu, 12 Mar 2026 17:25:06 GMT\r\nServer: Apache\r\nLast-Modified: Tue, 13 Jan 2026 17:12:35 GMT\r\nAccept-Ranges: bytes\r\nContent-Length: 163\r\nCache-Control: no-cache, no-store, must-revalidate\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\nContent-Type: text/html"
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:25:06 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "webmail.champ.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 110,
+      "service": "POP3",
+      "banner": "+OK Dovecot ready."
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 143,
+      "service": "IMAP",
+      "banner": "* OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot ready."
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 3306,
+      "service": "MySQL",
+      "banner": "H\u0000\u0000\u0000j\u0004Host '148.69.181.82' is not allowed to connect to this MariaDB server"
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 21,
+      "service": "FTP",
+      "banner": "220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 17:25. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity."
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:25:09 GMT\r\nServer: Apache\r\nLocation: https:///\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:25:09 GMT\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1"
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.1 301 Moved Permanently\r\nDate: Thu, 12 Mar 2026 17:25:09 GMT\r\nServer: Apache\r\nLocation: https:///400.shtml\r\nCache-Control: max-age=0\r\nExpires: Thu, 12 Mar 2026 17:25:09 GMT\r\nContent-Length: 266\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\">\n<html><head>\n<title>301 Moved Permanently</title>\n</head><body>\n<h1>Moved Permanently</h1>\n<p>The document has moved <a href=\"https:///400.shtml\">here</a>.</p>\n</body></html>"
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 25,
+      "service": "SMTP",
+      "banner": "220-pdlc235105.ciberserver.com ESMTP Exim 4.99.1 #2 Thu, 12 Mar 2026 17:25:09 +0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail."
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 53,
+      "service": "DNS",
+      "banner": null
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 995,
+      "service": "POP3S",
+      "banner": null
+    },
+    {
+      "host": "webdisk.bocadolobo.com",
+      "port": 993,
+      "service": "IMAPS",
+      "banner": null
+    },
+    {
+      "host": "click.concierge.bocadolobo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nCache-Control: no-cache, must-revalidate, max-age=0, no-store, private\r\nContent-Length: 1233\r\nContent-Type: text/html\r\nContent-Security-Policy: default-src 'self'; frame-ancestors 'self'\r\nX-Frame-Options: SAMEORIGIN\r\nX-Content-Type-Options: nosniff\r\nReferrer-Policy: origin-when-cross-origin\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nX-XSS-Protection: 1; mode=block\r\nPermissions-Policy: geolocation=(self), microphone=()\r\nSet-Cookie: strict\r\nDate: Thu, 12 Mar 2026 17:25:12 GMT\r\nConnection: close"
+    },
+    {
+      "host": "click.concierge.bocadolobo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": ""
+    }
+  ],
+  "screenshots": [],
+  "vulnerabilities": [],
+  "statistics": {
+    "total_subdomains": 24,
+    "resolved_hosts": 19,
+    "technologies_detected": 101,
+    "open_ports": 92,
+    "vulnerabilities": 0
+  }
+}

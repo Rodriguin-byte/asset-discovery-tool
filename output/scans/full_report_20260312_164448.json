@@ -1,0 +1,3904 @@
+{
+  "target": "exemplo.com",
+  "timestamp": "2026-03-12T16:38:27.319389",
+  "subdomains": [
+    {
+      "name": "1.6www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "1.7www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "1.9www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "1806www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "19www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "20.016.023mail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "6www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "7www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "8.19www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "88.2.0.192.dnsbl.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "8www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "9www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "a1.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "a20.016.023mail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "ad.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "ads.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "adulto.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "algum.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "amigaseternas.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "anterior.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "api.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "apps.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "aseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "auth.xyz.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "aveiro.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "beta.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "blog.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "blog1.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "bombaanterior.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "borda.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "br.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "c.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "cena.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "checkout.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "citsmart.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "cliente.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "construtor.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "corp.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "demosvernoexemploaseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "deo.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "dewww.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "dnsbl.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "dom.teste.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "domin-iodela.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "download.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "eastcoast.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "ernoexemploaseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "es.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "escrevendobem.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "eternamiga.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "exemplo.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "exemplo@exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "exemploaseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "exx.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "formulario.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "ftp.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "gamma.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "gatinhosnovo.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "gwt.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "host2.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "hostname.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "hotel.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "httpwww.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "idap.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "imap.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "iodela.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "irc.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "kerberos.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "ksc.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "ldap.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "link.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "localsmtp.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "login.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "loja.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "luciomarcal.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "m.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "mail-backup.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "mail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "mail.exemplo.coma20.016.023mail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "mailhost.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "maquina1.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "margaux.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "menu.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "meuapp.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "meudominio.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "meuhost.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "meuhostnamereal.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "meupc.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "meusubfolder.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "midia.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "minhacontroller.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "mirror.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "moodle.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "namespaces.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "nioa.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "noexemploaseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "nomedehost.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "novo.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "ntplocal.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "odemosvernoexemploaseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "ofertas.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "omopodemosvernoexemploaseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "outro.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "outro.subdominio.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "p01.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "painel.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "palaciocapanema.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "podemosvernoexemploaseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "pop.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "portal1.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "portal2.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "portal3.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "porto.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "primeiro.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "proxectoboinc.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "proxy.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "qualquer.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "realserver.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "registrovalormail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "registrovalormail.exemplo.coma20.016.023mail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "replica.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "reserva.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "respondente.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "riodejaneiro.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "s390vm.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "seguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "sementeswww.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "server1.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "servico.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "servidor.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "servidor1.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "servidor2.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "servidor3.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "servidorimap.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "seu.provedor.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "seudominio.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "seulink.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "sftp.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "site.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "smtp.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "stag.api.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "stag.app.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "stp.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "suaempresa.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "suavpn.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "sub.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "sub1.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "sub2.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "subdominio.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "subdominio.www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "svn.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "swww.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "tempo.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "teste.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "tux.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "udio.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "url.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "valormail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "valormail.exemplo.coma20.016.023mail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "vernoexemploaseguir.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "webmail.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "www.123.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "www.bebida.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "www.compras.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "www.desenvolvimento.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "www.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "www.suporte.exemplo.com",
+      "source": "passive"
+    },
+    {
+      "name": "wwww.exemplo.com",
+      "source": "passive"
+    }
+  ],
+  "resolved": {
+    "margaux.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "exx.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "httpwww.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "br.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "qualquer.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "8www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "aveiro.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "stag.app.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "meusubfolder.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "minhacontroller.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "smtp.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "nioa.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "proxy.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "amigaseternas.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "aseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "replica.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "www.123.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "sftp.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "checkout.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "1.9www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "stag.api.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "citsmart.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "vernoexemploaseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "sub2.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "stp.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "pop.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "www.suporte.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "outro.subdominio.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "palaciocapanema.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "login.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "suaempresa.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "subdominio.www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "domin-iodela.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "dom.teste.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "kerberos.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "ofertas.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "eastcoast.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "idap.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "p01.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "bombaanterior.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "cliente.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "site.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "exemploaseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "meuhostnamereal.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "dewww.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "porto.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "es.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "seguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "url.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "menu.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "www.compras.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "portal3.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "escrevendobem.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "exemplo.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "painel.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "gamma.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "download.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "sub1.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "mirror.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "a1.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "hotel.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "cena.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "mailhost.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "deo.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "loja.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "servidor1.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "namespaces.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "hostname.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "omopodemosvernoexemploaseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "19www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "odemosvernoexemploaseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "svn.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "formulario.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "servidor.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "algum.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "eternamiga.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "1806www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "adulto.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "servidorimap.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "www.bebida.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "portal2.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "api.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "servico.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "www.desenvolvimento.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "respondente.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "borda.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "sementeswww.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "reserva.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "ldap.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "blog1.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "servidor2.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "s390vm.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "server1.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "m.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "registrovalormail.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "seu.provedor.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "midia.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "subdominio.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "ksc.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "valormail.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "link.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "suavpn.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "novo.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "beta.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "portal1.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "riodejaneiro.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "ernoexemploaseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "tux.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "auth.xyz.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "meuhost.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "ftp.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "realserver.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "podemosvernoexemploaseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "maquina1.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "mail.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "luciomarcal.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "localsmtp.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "apps.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "imap.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "anterior.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "ads.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "1.6www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "ad.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "demosvernoexemploaseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "webmail.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "meupc.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "moodle.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "ntplocal.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "meuapp.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "blog.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "construtor.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "1.7www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "mail-backup.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "servidor3.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "gwt.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "primeiro.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "udio.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "gatinhosnovo.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "6www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "host2.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "wwww.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "c.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "dnsbl.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "proxectoboinc.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "corp.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "nomedehost.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "irc.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "9www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "swww.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "noexemploaseguir.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "sub.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "teste.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "iodela.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "seudominio.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "meudominio.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "7www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "outro.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "seulink.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "8.19www.exemplo.com": [
+      "104.247.81.99"
+    ],
+    "tempo.exemplo.com": [
+      "104.247.81.99"
+    ]
+  },
+  "technologies": [
+    {
+      "url": "http://replica.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://aseguir.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://margaux.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://qualquer.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://www.123.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://exx.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://httpwww.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://br.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://sftp.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://aveiro.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://8www.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://smtp.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://sub2.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://stag.app.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://vernoexemploaseguir.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://meusubfolder.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://minhacontroller.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://nioa.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://domin-iodela.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://suaempresa.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://proxy.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://amigaseternas.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://checkout.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://1.9www.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://stp.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://p01.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://stag.api.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://citsmart.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://cliente.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://www.suporte.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://pop.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://outro.subdominio.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://dewww.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://login.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://subdominio.www.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://es.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://palaciocapanema.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://www.compras.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://dom.teste.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://kerberos.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://exemplo.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://ofertas.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://menu.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://eastcoast.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://idap.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://bombaanterior.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://exemploaseguir.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://porto.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://site.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    },
+    {
+      "url": "http://meuhostnamereal.exemplo.com",
+      "status": 403,
+      "technologies": [
+        {
+          "technology": "nginx",
+          "source": "header",
+          "header": "server",
+          "version": null,
+          "evidence": "nginx"
+        }
+      ],
+      "server": "nginx",
+      "content_type": "text/html"
+    }
+  ],
+  "open_ports": [
+    {
+      "host": "margaux.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:36 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "margaux.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "exx.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "exx.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:38 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "httpwww.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:40 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "httpwww.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "br.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:42 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "br.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "qualquer.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:45 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "qualquer.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "8www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "8www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:46 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "aveiro.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:48 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "aveiro.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "stag.app.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "stag.app.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:50 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "meusubfolder.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:52 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "meusubfolder.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "minhacontroller.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:54 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "minhacontroller.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "smtp.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:56 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "smtp.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "nioa.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:38:58 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "nioa.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "proxy.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:00 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "proxy.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "amigaseternas.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:02 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "amigaseternas.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "aseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:04 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "aseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "replica.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:06 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "replica.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "www.123.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:08 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "www.123.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "sftp.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:10 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "sftp.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "checkout.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:12 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "checkout.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "1.9www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "1.9www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:14 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "stag.api.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:16 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "stag.api.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "citsmart.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:18 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "citsmart.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "vernoexemploaseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:20 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "vernoexemploaseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "sub2.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:22 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "sub2.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "stp.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "stp.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:24 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "pop.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:26 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "pop.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "www.suporte.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:28 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "www.suporte.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "outro.subdominio.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:30 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "outro.subdominio.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "palaciocapanema.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:32 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "palaciocapanema.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "login.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:34 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "login.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "suaempresa.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:37 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "suaempresa.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "subdominio.www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "subdominio.www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:39 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "domin-iodela.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:41 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "domin-iodela.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "dom.teste.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "dom.teste.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:43 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "kerberos.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "kerberos.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:45 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ofertas.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:47 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ofertas.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "eastcoast.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "eastcoast.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:49 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "idap.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:51 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "idap.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "p01.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "p01.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:53 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "bombaanterior.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:55 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "bombaanterior.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "cliente.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:57 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "cliente.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "site.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "site.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:39:59 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "exemploaseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:01 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "exemploaseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "meuhostnamereal.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:03 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "meuhostnamereal.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "dewww.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "dewww.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:05 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "porto.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:07 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "porto.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "es.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "es.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:09 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "seguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:11 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "seguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "url.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:13 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "url.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "menu.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:15 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "menu.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "www.compras.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:17 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "www.compras.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "portal3.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:19 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "portal3.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "escrevendobem.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "escrevendobem.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:21 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "exemplo.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:23 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "exemplo.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "painel.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "painel.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:25 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "gamma.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:27 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "gamma.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "download.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:29 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "download.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "sub1.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:31 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "sub1.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "mirror.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "mirror.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:33 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "a1.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "a1.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:35 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "hotel.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:37 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "hotel.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "cena.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "cena.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:39 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "mailhost.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "mailhost.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:41 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "deo.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:43 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "deo.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "loja.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:45 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "loja.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "servidor1.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:47 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "servidor1.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:49 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "namespaces.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:51 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "namespaces.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "hostname.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "hostname.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:53 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "omopodemosvernoexemploaseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:55 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "omopodemosvernoexemploaseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "19www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "19www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:40:58 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "odemosvernoexemploaseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:00 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "odemosvernoexemploaseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "svn.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "svn.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:02 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "formulario.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "formulario.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:04 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "servidor.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "servidor.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:06 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "algum.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:08 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "algum.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "eternamiga.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:10 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "eternamiga.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "1806www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:12 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "1806www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "adulto.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "adulto.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:14 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "servidorimap.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:16 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "servidorimap.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "www.bebida.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:18 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "www.bebida.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "portal2.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:20 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "portal2.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "api.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:22 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "api.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "servico.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "servico.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:24 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "www.desenvolvimento.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:26 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "www.desenvolvimento.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "respondente.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:28 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "respondente.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "borda.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:30 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "borda.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "sementeswww.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "sementeswww.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:32 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "reserva.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "reserva.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:34 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ldap.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "ldap.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:36 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "blog1.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "blog1.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:38 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "servidor2.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:40 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "servidor2.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "s390vm.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:42 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "s390vm.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "server1.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:44 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "server1.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "m.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:46 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "m.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "registrovalormail.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "registrovalormail.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:48 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "seu.provedor.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:50 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "seu.provedor.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "midia.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:52 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "midia.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "subdominio.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "subdominio.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:54 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ksc.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:56 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ksc.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "valormail.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "valormail.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:41:58 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "link.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:00 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "link.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "suavpn.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:02 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "suavpn.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "novo.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:04 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "novo.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "beta.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:06 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "beta.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "portal1.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:08 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "portal1.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "riodejaneiro.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:10 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "riodejaneiro.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "ernoexemploaseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:12 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ernoexemploaseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "tux.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:15 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "tux.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "auth.xyz.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "auth.xyz.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:17 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "meuhost.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "meuhost.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:19 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ftp.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:21 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ftp.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "realserver.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:23 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "realserver.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "podemosvernoexemploaseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:25 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "podemosvernoexemploaseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "maquina1.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "maquina1.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:27 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "mail.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "mail.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:29 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "luciomarcal.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:31 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "luciomarcal.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "localsmtp.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:33 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "localsmtp.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "apps.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:35 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "apps.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "imap.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:37 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "imap.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "anterior.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "anterior.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:39 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ads.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:41 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ads.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "1.6www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:43 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "1.6www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "ad.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:45 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ad.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "demosvernoexemploaseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:47 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "demosvernoexemploaseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "webmail.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "webmail.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:49 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "meupc.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:51 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "meupc.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "moodle.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:53 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "moodle.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "ntplocal.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:55 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "ntplocal.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "meuapp.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:57 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "meuapp.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "blog.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:42:59 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "blog.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "construtor.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:01 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "construtor.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "1.7www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:03 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "1.7www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "mail-backup.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:05 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "mail-backup.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "servidor3.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "servidor3.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:07 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "gwt.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:09 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "gwt.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "primeiro.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "primeiro.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:11 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "udio.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:13 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "udio.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "gatinhosnovo.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:15 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "gatinhosnovo.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "6www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:17 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "6www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "host2.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:19 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "host2.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "wwww.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:21 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "wwww.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "c.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "c.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:23 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "dnsbl.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:25 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "dnsbl.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "proxectoboinc.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:28 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "proxectoboinc.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "corp.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "corp.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:30 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "nomedehost.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:32 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "nomedehost.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "irc.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:34 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "irc.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "9www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:36 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "9www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "swww.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:38 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "swww.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "noexemploaseguir.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:40 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "noexemploaseguir.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "sub.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:42 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "sub.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "teste.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:44 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "teste.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "iodela.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:46 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "iodela.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "seudominio.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:48 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "seudominio.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "meudominio.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:50 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "meudominio.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "7www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:52 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "7www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "outro.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:54 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "outro.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "seulink.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:56 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "seulink.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "8.19www.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "8.19www.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:43:58 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    },
+    {
+      "host": "tempo.exemplo.com",
+      "port": 443,
+      "service": "HTTPS",
+      "banner": "HTTP/1.0 400 Bad Request\r\n\r\nClient sent an HTTP request to an HTTPS server."
+    },
+    {
+      "host": "tempo.exemplo.com",
+      "port": 80,
+      "service": "HTTP",
+      "banner": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nDate: Thu, 12 Mar 2026 16:44:00 GMT\r\nContent-Type: text/html\r\nContent-Length: 146\r\nConnection: close"
+    }
+  ],
+  "screenshots": [
+    {
+      "url": "http://replica.exemplo.com",
+      "filepath": "./output/screenshots\\replica.exemplo.com_b6f8b402.png",
+      "size": [
+        1280,
+        720
+      ],
+      "timestamp": 1773333852.7289
+    },
+    {
+      "url": "http://aseguir.exemplo.com",
+      "filepath": "./output/screenshots\\aseguir.exemplo.com_f11bb8e6.png",
+      "size": [
+        1280,
+        720
+      ],
+      "timestamp": 1773333859.0486825
+    },
+    {
+      "url": "http://margaux.exemplo.com",
+      "filepath": "./output/screenshots\\margaux.exemplo.com_43473457.png",
+      "size": [
+        1280,
+        720
+      ],
+      "timestamp": 1773333865.3494742
+    },
+    {
+      "url": "http://qualquer.exemplo.com",
+      "filepath": "./output/screenshots\\qualquer.exemplo.com_6c866e20.png",
+      "size": [
+        1280,
+        720
+      ],
+      "timestamp": 1773333871.6749332
+    },
+    {
+      "url": "http://www.123.exemplo.com",
+      "filepath": "./output/screenshots\\www.123.exemplo.com_18bc9f94.png",
+      "size": [
+        1280,
+        720
+      ],
+      "timestamp": 1773333878.0072472
+    }
+  ],
+  "vulnerabilities": [],
+  "statistics": {
+    "total_subdomains": 168,
+    "resolved_hosts": 161,
+    "technologies_detected": 50,
+    "open_ports": 322,
+    "vulnerabilities": 0
+  }
+}

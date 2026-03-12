@@ -1,0 +1,63 @@
+# Configurações do Asset Discovery Tool
+
+# Configurações gerais
+general:
+  timeout: 10
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  max_threads: 50
+  output_dir: "./output"
+
+# Fontes passivas (Fase 1)
+passive_sources:
+  crtsh:
+    enabled: true
+    url: "https://crt.sh/?q=%25.{domain}&output=json"
+  alienvault:
+    enabled: true
+    url: "https://otx.alienvault.com/api/v1/indicators/domain/{domain}/passive_dns"
+  wayback:
+    enabled: true
+    url: "http://web.archive.org/cdx/search/cdx?url=*.{domain}&output=json&fl=original&collapse=urlkey"
+
+# Configurações de brute-force (Fase 2)
+bruteforce:
+  enabled: true
+  wordlists:
+    small: "./wordlists/common.txt"
+    medium: "./wordlists/subdomains.txt"
+    large: "./wordlists/all.txt"
+  max_requests_per_second: 100
+  follow_redirects: false
+  verify_ssl: false
+
+# Deteção de tecnologias (Fase 2)
+tech_detection:
+  enabled: true
+  fingerprints_file: "./data/technologies.json"
+  extract_headers: true
+  extract_cookies: true
+  extract_meta: true
+
+# Port scanning (Fase 3)
+port_scan:
+  enabled: true
+  common_ports: [21, 22, 23, 25, 53, 80, 110, 111, 135, 139, 143, 443, 445, 993, 995, 1723, 3306, 3389, 5900, 8080, 8443]
+  timeout: 2
+  max_ports_per_host: 100
+
+# Screenshots (Fase 3)
+screenshots:
+  enabled: true
+  width: 1280
+  height: 720
+  quality: 85
+  timeout: 30
+  output_dir: "./output/screenshots"
+
+# Subdomain takeover (Fase 4)
+takeover:
+  enabled: true
+  fingerprints_file: "./data/takeover_fingerprints.json"
+  check_cname: true
+  check_ns: true
+  check_http: true
